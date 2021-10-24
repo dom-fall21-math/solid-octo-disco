@@ -6,6 +6,10 @@ navbar:
       href: about.html
     - text: "HTML"
       href: html.html
+    - text: "About"
+      href: rmarkdown.html
+    - text: "HTML"
+      href: test.html
   right:
     - icon: fa-envelope fa-lg
       href: mailto:<you@youremail.com>
